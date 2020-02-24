@@ -7,6 +7,7 @@
 
 
 	<div>
+		<p>Let's see where we are going now</p>
 		<p>XSS stands for Cross-site scripting</p>
 		<h4>Good old songs make my day</h4>
 		<ul>
