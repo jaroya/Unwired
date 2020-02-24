@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>XSS</title>
+	<title>Unwired</title>
 </head>
 <body>
 
